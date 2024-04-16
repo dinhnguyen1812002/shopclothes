@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc0"
+  },
+  "size_name": "NO SIZE"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc1"
+  },
+  "size_name": "M"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc2"
+  },
+  "size_name": "L"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc3"
+  },
+  "size_name": "XL"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc4"
+  },
+  "size_name": "XXL"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc5"
+  },
+  "size_name": "37"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc6"
+  },
+  "size_name": "38"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc7"
+  },
+  "size_name": "39"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc8"
+  },
+  "size_name": "40"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedc9"
+  },
+  "size_name": "41"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedca"
+  },
+  "size_name": "42"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedcb"
+  },
+  "size_name": "43"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedcc"
+  },
+  "size_name": "44"
+}]

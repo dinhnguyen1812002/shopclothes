@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Giày Dép"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced88"
+  },
+  "name": "Áo Khoác"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced89"
+  },
+  "name": "Áo Thun"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced8a"
+  },
+  "name": "Áo Sơ Mi"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Dài"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced8d"
+  },
+  "name": "Phụ Kiện"
+}]

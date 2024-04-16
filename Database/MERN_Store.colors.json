@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedb6"
+  },
+  "color_name": "Đỏ"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedb7"
+  },
+  "color_name": "Trắng"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedb8"
+  },
+  "color_name": "Kem"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedb9"
+  },
+  "color_name": "Đen"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedba"
+  },
+  "color_name": "Xanh Dương"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedbb"
+  },
+  "color_name": "Xanh Lá"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedbc"
+  },
+  "color_name": "Xanh Đen"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedbd"
+  },
+  "color_name": "Vàng"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedbe"
+  },
+  "color_name": "Xám"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedbf"
+  },
+  "color_name": "Hồng"
+}]

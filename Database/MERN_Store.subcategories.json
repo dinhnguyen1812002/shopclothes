@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced8e"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Giày Thời Trang"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced8f"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Giày Chạy Bộ"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced90"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Giày Bóng Rổ"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced91"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Giày Bóng Đá"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced92"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Dép Quai Ngang"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced93"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced87"
+  },
+  "name": "Dép Xỏ Ngón"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced94"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced89"
+  },
+  "name": "Áo Thun Tay Ngắn"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced96"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced89"
+  },
+  "name": "Áo Thun Tay Dài"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced97"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced89"
+  },
+  "name": "Áo Thun Polo"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced98"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8a"
+  },
+  "name": "Sơ Mi Tay Ngắn"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced99"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8a"
+  },
+  "name": "Sơ Mi Tay Dài"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9a"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced88"
+  },
+  "name": "Áo Khoác Nỉ"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9b"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced88"
+  },
+  "name": "Áo Khoác Dù"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9c"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced88"
+  },
+  "name": "Áo Khoác Kaki"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9d"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced88"
+  },
+  "name": "Áo Khoác Blazer"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9e"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Kaki"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced9f"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Tây Nam"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ceda0"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Jean"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ceda1"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Jogger Thun"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ceda2"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Jogger Kaki"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ceda8"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8d"
+  },
+  "name": "Ví Da"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ceda9"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8d"
+  },
+  "name": "Dây Nịt"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedaa"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8d"
+  },
+  "name": "Cà Vạt, Nơ"
+},
+{
+  "_id": {
+    "$oid": "658703beee3b45f9e11cedab"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8d"
+  },
+  "name": "Vớ"
+},
+{
+  "_id": {
+    "$oid": "6587d1689e1e381f3a2d8dc9"
+  },
+  "category_id": {
+    "$oid": "658703beee3b45f9e11ced8b"
+  },
+  "name": "Quần Jean Cổ",
+  "__v": 0
+}]

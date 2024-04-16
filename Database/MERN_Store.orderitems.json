@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "6587320dec4fcd27b11e1f3b"
+  },
+  "order_id": {
+    "$oid": "6587320dec4fcd27b11e1f39"
+  },
+  "product_id": {
+    "$oid": "65871e6eec4fcd27b11e14ef"
+  },
+  "color": "Đen",
+  "size": "XL", 
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587320dec4fcd27b11e1f40"
+  },
+  "order_id": {
+    "$oid": "6587320dec4fcd27b11e1f39"
+  },
+  "product_id": {
+    "$oid": "65872a01ec4fcd27b11e1706"
+  },
+  "color": "Trắng",
+  "size": "XL",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587c98d1615bfa28a9be7ba"
+  },
+  "order_id": {
+    "$oid": "6587c98d1615bfa28a9be7b8"
+  },
+  "product_id": {
+    "$oid": "65870e04ec4fcd27b11e09d1"
+  },
+  "color": "Kem",
+  "size": "40",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587c98d1615bfa28a9be7bf"
+  },
+  "order_id": {
+    "$oid": "6587c98d1615bfa28a9be7b8"
+  },
+  "product_id": {
+    "$oid": "65871e6eec4fcd27b11e14ef"
+  },
+  "color": "Đen",
+  "size": "XL",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587c98d1615bfa28a9be7c4"
+  },
+  "order_id": {
+    "$oid": "6587c98d1615bfa28a9be7b8"
+  },
+  "product_id": {
+    "$oid": "65872a01ec4fcd27b11e1706"
+  },
+  "color": "Trắng",
+  "size": "XL",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587c9e91615bfa28a9be8a1"
+  },
+  "order_id": {
+    "$oid": "6587c9e91615bfa28a9be89f"
+  },
+  "product_id": {
+    "$oid": "658714c3ec4fcd27b11e0e79"
+  },
+  "color": "Hồng",
+  "size": "41",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587cf189e1e381f3a2d86ef"
+  },
+  "order_id": {
+    "$oid": "6587cf189e1e381f3a2d86ed"
+  },
+  "product_id": {
+    "$oid": "658703beee3b45f9e11cedac"
+  },
+  "color": "Đỏ",
+  "size": "42",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587cf189e1e381f3a2d86f4"
+  },
+  "order_id": {
+    "$oid": "6587cf189e1e381f3a2d86ed"
+  },
+  "product_id": {
+    "$oid": "65872a9cec4fcd27b11e17b7"
+  },
+  "color": "Hồng",
+  "size": "XL",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587cf479e1e381f3a2d8781"
+  },
+  "order_id": {
+    "$oid": "6587cf479e1e381f3a2d877f"
+  },
+  "product_id": {
+    "$oid": "65871eb5ec4fcd27b11e154c"
+  },
+  "color": "Kem",
+  "size": "XL",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587d0f29e1e381f3a2d8c2b"
+  },
+  "order_id": {
+    "$oid": "6587d0f29e1e381f3a2d8c29"
+  },
+  "product_id": {
+    "$oid": "65872fb2ec4fcd27b11e1c46"
+  },
+  "color": "Đen",
+  "size": "40",
+  "quantity": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587d1be9e1e381f3a2d8fb2"
+  },
+  "order_id": {
+    "$oid": "6587d1be9e1e381f3a2d8fb0"
+  },
+  "product_id": {
+    "$oid": "658716baec4fcd27b11e0f52"
+  },
+  "color": "Đen",
+  "size": "XXL",
+  "quantity": 1,
+  "__v": 0
+}]

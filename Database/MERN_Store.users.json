@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "658703beee3b45f9e11ced86"
+  },
+  "firstname": "Admin",
+  "lastname": "Admin",
+  "username": "admin",
+  "password": "$2b$10$lTszGDCX6c9isJa2xYCrXumFvDNPT60xDapHEETJI6QvarZqxqAJq",
+  "phone": "012456789",
+  "email": "admin@gmail.com",
+  "address": "q9",
+  "idRole": {
+    "$oid": "658703beee3b45f9e11ced84"
+  }
+},
+{
+  "_id": {
+    "$oid": "658731b7ec4fcd27b11e1e27"
+  },
+  "firstname": "Nguyễn Văn",
+  "lastname": "Nam",
+  "username": "namguyenvan",
+  "password": "$2b$10$dmVnOFRb8ydr4pdju3KyR.oRXIjC32kEEx1s/INkQbD/XdyfEvNlm",
+  "phone": "0944398092",
+  "email": "namguyenvan@gmail.com",
+  "address": "Hà Nội",
+  "idRole": {
+    "$oid": "658703beee3b45f9e11ced85"
+  },
+  "__v": 0
+}
+]

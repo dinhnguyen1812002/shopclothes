@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65873224ec4fcd27b11e1fb5"
+  },
+  "product_id": {
+    "$oid": "65871e6eec4fcd27b11e14ef"
+  },
+  "user_id": {
+    "$oid": "658731b7ec4fcd27b11e1e27"
+  },
+  "rating": 5,
+  "comment": "Tuyệt vời!",
+  "created_at": {
+    "$date": "2023-12-23T19:16:52.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65873250ec4fcd27b11e2077"
+  },
+  "product_id": {
+    "$oid": "65872a01ec4fcd27b11e1706"
+  },
+  "user_id": {
+    "$oid": "658731b7ec4fcd27b11e1e27"
+  },
+  "rating": 5,
+  "comment": "Màu của sản phẩm rất đẹp",
+  "created_at": {
+    "$date": "2023-12-23T19:17:36.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587cfb89e1e381f3a2d897d"
+  },
+  "product_id": {
+    "$oid": "658703beee3b45f9e11cedac"
+  },
+  "user_id": {
+    "$oid": "6587ce509e1e381f3a2d851a"
+  },
+  "rating": 5,
+  "comment": "Sản phẩm rất tốt!",
+  "created_at": {
+    "$date": "2023-12-24T06:29:12.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587d23b9e1e381f3a2d908b"
+  },
+  "product_id": {
+    "$oid": "65872fb2ec4fcd27b11e1c46"
+  },
+  "user_id": {
+    "$oid": "6587d0d39e1e381f3a2d8b91"
+  },
+  "rating": 5,
+  "comment": "Quần rất đẹp",
+  "created_at": {
+    "$date": "2023-12-24T06:39:55.358Z"
+  },
+  "__v": 0
+}]
